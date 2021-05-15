@@ -31,5 +31,6 @@
 
 ## 참고사이트
    * 굿뉴스 성경 < https://maria.catholic.or.kr/bible/ >
-   * 나무위키 < https://namu.wiki/w/예수 >
-   * 위키백과 < https://ko.wikipedia.org/wiki/예수 >
+   * 나무위키 < https://namu.wiki/ >
+   * 위키백과 < https://ko.wikipedia.org/wiki/ >
+   * Wikipedia < https://en.wikipedia.org/wiki/ >
