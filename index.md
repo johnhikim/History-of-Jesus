@@ -30,5 +30,6 @@
 ***첫메뉴로 돌아가고 싶을 때는 "초기 메뉴" 버튼 혹은 "초기 메뉴" 글자를 입력하면 첫 메뉴 화면으로 돌아갑니다.***
 
 ## 참고사이트
+   * 굿뉴스 성경 < https://maria.catholic.or.kr/bible/ >
    * 나무위키 < https://namu.wiki/w/예수 >
    * 위키백과 < https://ko.wikipedia.org/wiki/예수 >
