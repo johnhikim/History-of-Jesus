@@ -23,10 +23,12 @@
   7. Q & A
 ```
 
-### Jekyll Themes
+## 챗봇 활용 방법 안내
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnhikim/History-of-Jesus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+오른쪽 하단의 챗봇 아이콘을 클릭하여 질문을 입력하거나 학습을 원하는 메뉴 버튼을 클릭하면 해당 내용을 학습할 수 있습니다. 
 
-### Support or Contact
+***첫메뉴로 돌아가고 싶을 때는 "초기 메뉴 선택" 버튼 혹은 "초기 메뉴 선택" 글자를 입력하면 첫 메뉴 화면으로 돌아갑니다.***
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 참고사이트
+   * 나무위키 < https://namu.wiki/w/예수 >
+   * 위키백과 < https://ko.wikipedia.org/wiki/예수 >
