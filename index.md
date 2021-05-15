@@ -7,9 +7,9 @@
 
 <시나이 성 카타리나 수도원의 "전능하신 그리스도" 이콘, C.E. 6세기>
 
-### 학습 목표
+## 학습 목표
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+고등학교 세계사, 윤리와사상, 종교학 과목 등에서 “크리스트교” 관련 단원을 수업할 때 챗봇을 보조적 학습도구로 활용해서 학생들이 지난 2000년 동안 서양 문화 형성에 큰 영향을 끼친 “예수”의 생애와 역사적 의의에 관해 학습함으로써 오늘날 서양 문화와 세계관에 대하여 이해할 수 있습니다.
 
 ```markdown
 Syntax highlighted code block
