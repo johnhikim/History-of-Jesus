@@ -5,6 +5,8 @@
 
 ![jesus_sinai](https://user-images.githubusercontent.com/82309621/118348615-8534b080-b586-11eb-8ba9-08c373b86a1e.jpg)
 
+<시나이 성 카타리나 수도원의 "전능하신 그리스도" 이콘, C.E. 6세기> 출처: aletieia
+
 ### 학습 목표
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
