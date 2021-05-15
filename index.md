@@ -11,25 +11,17 @@
 
 고등학교 세계사, 윤리와사상, 종교학 과목 등에서 “크리스트교” 관련 단원을 수업할 때 챗봇을 보조적 학습도구로 활용해서 학생들이 지난 2000년 동안 서양 문화 형성에 큰 영향을 끼친 “예수”의 생애와 역사적 의의에 관해 학습함으로써 오늘날 서양 문화와 세계관에 대하여 이해할 수 있습니다.
 
-```markdown
-Syntax highlighted code block
+## 목차 구성
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  ```
+  1. 시대적 배경 - 로마제국 시대     
+  2. 시대적 사상과 문화 - 헬레니즘과 헤브라이즘
+  3. 예수의 생애 - 탄생, 공생애, 죽음
+  4. 그리스도교의 등장 - 빈무덤과 부활신앙, 예수의 가르침
+  5. 그리스도교의 확산 - 교회 공동체의 탄생과 확산
+  6. 역사적 의의 - 서유럽의 그리스도교화, 현대문명에 끼친 영향
+  7. Q & A
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
