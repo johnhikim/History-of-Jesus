@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## 예수의 역사 탐구 
 
-You can use the [editor on GitHub](https://github.com/johnhikim/History-of-Jesus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+예수는 서력기원 무렵에 당시 로마의 속주였던 유대에서 태어나 나자렛과 팔레스타인 지역에서 활동했던 "나자렛 예수"라고 불리웠던 유대인 성자입니다. 
+나자렛 예수는 세계에서 가장 규모가 큰 종교인 그리스도교에서 "그리스도"라고 불리는 신앙의 대상이자 인류의 4대 성인 중 한 명입니다.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 학습 목표
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
